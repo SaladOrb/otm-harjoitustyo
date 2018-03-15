@@ -10,4 +10,3 @@ Tässä harjoitustyössä on kyse asioista ja menetelmistä.
 
 [komentorivi.txt](https://github.com/SaladOrb/otm-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-PARSAAAAA **PARSSAAAAAA**
