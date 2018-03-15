@@ -102,3 +102,8 @@ Date:   Thu Mar 15 14:13:43 2018 +0200
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
 
+commit ojfb7y203if8498fjhif0rj28fn984n9f8hf9845
+Author: sdadsas
+Date: tänään
+
+    PARSAA PARSSAAAAA!
