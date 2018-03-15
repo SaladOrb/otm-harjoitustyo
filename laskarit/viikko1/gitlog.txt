@@ -1,0 +1,104 @@
+commit 8a1e3706f735569f881a0b24ffd1e5d69c7c52fc
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 15:14:56 2018 +0200
+
+    Bugaamisen jälkeen poistetty ykkönen ja muutettu kakkonen
+
+ tiedostoja/file22 | 0
+ tiedostoja/file3  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8ed3db59e6cddb8d8d431096ee934a5fdacacf73
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:52:30 2018 +0200
+
+    muutoksia ekaan ja kolmanteen
+
+ eka.txt    | 10 ++++------
+ kolmas.txt |  3 ++-
+ 2 files changed, 6 insertions(+), 7 deletions(-)
+
+commit 266ac7cb05b3aaaba038406ec745f81b76f36a8e
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:44:59 2018 +0200
+
+    nimetty uudelleen tiedosto -> eka
+
+ eka.txt      | 26 ++++++++++++++++++++++++++
+ tiedosto.txt | 26 --------------------------
+ 2 files changed, 26 insertions(+), 26 deletions(-)
+
+commit 54907dbc7cb097fb5824791f725e5c08392433a7
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:43:51 2018 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1d0bbba7f20f7eabd53ee37ff7834ae81102e870
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:40:10 2018 +0200
+
+    poistettu ja lisätty lisää tiedostoon
+
+ tiedosto.txt | 21 ++++++++++++++++++---
+ 1 file changed, 18 insertions(+), 3 deletions(-)
+
+commit 70886ee6f8c1bab2f3ec052816575f57c6dd4b6f
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:38:27 2018 +0200
+
+    paljon tekstiä tiedostoon
+
+ tiedosto.txt | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit c7768cf0e1b0a500106c5ff0ed10627896bdc1fc
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:25:56 2018 +0200
+
+    Kansio stuff ja filu
+
+ stuff/filu | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fa86f366a7c970fd73aad4e040dab4786c1f9d2c
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:23:56 2018 +0200
+
+    Sisältöä toiseen ja kolmanteen
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 388cd06e3de5400c5dd04207b5f58280f7a61ee7
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:21:37 2018 +0200
+
+    Dokumentti 'kolmas' luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fd7b7046409574d4070e90c73bc71928e99d9db1
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:17:36 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit ce9dcef145249c71d688ac4970ce4db05616c284
+Author: Mikko Komulainen <komuski@gmail.com>
+Date:   Thu Mar 15 14:13:43 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
