@@ -11,3 +11,5 @@ Tässä harjoitustyössä syvennetään ohjelmointitaitoja ohjelmointiprojektin 
 [komentorivi.txt](https://github.com/SaladOrb/otm-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 [Alustava määrittelydokumentti](https://github.com/SaladOrb/otm-harjoitustyo/blob/master/alustava_maarittelydokumentti.md)
+
+[Tuntikirjanpito] (https://github.com/SaladOrb/otm-harjoitustyo/blob/master/tuntikirjanpito.md)
