@@ -1,14 +1,17 @@
 OTM-Mp3-soitin
 
 **Sovelluksen tarkoitus**
+
 	Sovelluksen tarkoitus on pitää käyttäjän mp3-tiedostoja listassa
 	ja toistaa niitä käyttäjän haluamalla tavalla siististi, näppärästi
 	ja yksinkertaisesti.
 
 **Käyttäjät**
+
 	Sovelluksella on vain yksi paikallinen käyttäjä.
 
 **Perusverison tarjoama toiminnallisuus**
+
 	Käyttäjä voi:
 		-Lisätä kappaleen tai kansion soittolistaan
 		-Tallentaa soittolistan
