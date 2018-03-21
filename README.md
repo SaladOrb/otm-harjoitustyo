@@ -1,10 +1,10 @@
 Tämä on Ohjelmistotekniikan menetelmien harjoitustyön README.
 
-Tässä harjoitustyössä on kyse asioista ja menetelmistä.
+Tässä harjoitustyössä syvennetään ohjelmointitaitoja ohjelmointiprojektin parissa.
 
-**Asiat** ovat niitä asioita, joita ohjelmistojen tuotannossa ja *ohjelmoinnissa* tarvitaan.
+**Asiat** Graafinen käyttöliittymä ja sovelluslogiikka. Tiedostojen lukeminen ja niihin tallentaminen.
 
-**Menetelmät** ovat niitä *toimintatapoja* joilla *ohjelmoidaan ja tuotetaan mahdollisimman toimivalla tavalla.*
+**Menetelmät** Oman ajankäytön seuranta, viikottaiset palautukset ja pajaohjaus.
 
 [gitlog.txt](https://github.com/SaladOrb/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
