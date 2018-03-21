@@ -17,6 +17,7 @@ OTM-Mp3-soitin
 		-Poistaa kappaleita listasta
 
 **Jatkokehitysideoita**
+
 	-Jonomahdollisuus
 	-End after -toiminnallisuus. Käyttäjä voi päättää minkä kappaleen
 	 jälkeen toisto loppuu
